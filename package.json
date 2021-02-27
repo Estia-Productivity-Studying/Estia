@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Estia-Productivity-Studying/Estia/issues"
   },
-  "homepage": "https://github.com/Estia-Productivity-Studying/Estia#readme"
+  "homepage": "https://github.com/Estia-Productivity-Studying/Estia#readme",
+  "dependencies": {
+    "electron": "^11.3.0"
+  }
 }
