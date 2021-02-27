@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Estia-Productivity-Studying/Estia#readme",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "electron": "^11.3.0"
   }
 }
